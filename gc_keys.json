@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "data-science-class-376417",
+  "private_key_id": "1745c6b85530b62ffdbc6f29872ef2a3905b9aef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCvT8H0faH9H1Yv\nMomTlqxZKOBWdNtWQzmNm/5iU2rjw0RNJ0t7093AuMutAU8ao1NIh1v0Z8nivK3l\n5Wdrqj4tuhjgu9qhsGo4A/V0/D5cirMMoBqnl7M5OMbCldUqQDkVdWWXXXHKS+gt\nMMvoELHQZaGJz/rAZFPGownjspb51CpNUzQgsRB1bUKleV3RWJGQ2lQPcAO8BrN7\nzON/pRUyo+q7A5Vba+3cVd0/EQKEdMi1MEdEs8QJi++O5NfpKFpWrXSbb8pDyv5B\np3NFKxJU+pizvKG3TqG8mQCsjZcXU9ayTfoy1I3GYI7QNAil/8MENCwGs4p5WyS4\nzzIxj7uxAgMBAAECgf9caqAIlXwozPjWKKP1bsDvsgoy58JTk8h3dCs/Ow6Bf5wA\nP1NhZHxDnf7bziCjl7yKn3/K/muwiNdSiug4bB/KSLcAcN7H5+jTXq6tcSokqNew\nduVgXFMc6bgGKYB0RybeAlDykED7V/EExq9z7xWyrQlAQHKPdh4zxhnhXEkVc4U1\nOSFdRGtgW/qgua1tvLWpB6z3hX/cv+T3ve/srVlbZ6qxw/sd23wcKTDqPEZ1N0rq\n2CYBY//wV7eFwTcRokcCRItQX7Xn/5ioWNVtThTsPLOWAR5jIf9cOj1kpyHHZHFU\nxPRdddwvqORMMKKGjjHAKfYBk1k/5u5cQwyQZEECgYEA8T8pFVAueNSOtg3LOdi+\nxuVH4+wmsKVqeRrBcmPvoIizzjjcaPadqX/JIBx/W2bfzQ0kwGn9LQ86wbUzKe0M\nw5C0WtNLePwGJwBfIGYQaSu0BPjqkQDYLqYO9Fx5tIfZF5ernSGqsf2o2M496HRS\nKjoD0/F4m5TRECMCkr6fZ+ECgYEAughZRtikP7jZ4aR1fT9JXv0V4CA3gTW2QscS\nPIoGut+LQOxpDyPHv1AbAAISy7oL6lftJpHoA0PMUoKTahqyA4B8nO1/9fH/Xd3c\n5pzltF9x8i0exx/wm/XaF2pm1CA80BO63mc5VKxc9YYbC2fKtQASQ/ebxy0lYwXG\n9DfVjdECgYEA3oGgxNWlZzC1R9jFHl945j3G5sOCk96dq4Ev9u+RroEnRgdP00fS\n9uizeniORqFFvfxnb0jSiGLJkKwtune3FBE9J6BGthnNGt/O3TUF4dq7OPLUdlVP\nDwd+N4ergQTjCE2NrWnF5FDPENh4ZRQUTHoh2bOXx/ekM7v2vZ4vrEECgYBJpPRy\nr2CWOT9HrCs2oc8R4269gwN2CyVT2irF/H4djFE8KlqMu8VfXv7RSgDW1ZfR9WzU\nT/5hDH3eTAK/hkHiUQMDvKFjY6GML0A7qvDkLsSU8ne0rFg75V+o1V5Pq1Nnq+fW\nE1cGxhUmvSgHo9cDQDv63BK3DpA2WxsfotrPgQKBgQCZSLtfYsd5514ue58Ykj2j\nyk9+WFk000AStMXmkAQJAdCbXF5sZhraXmcOtqprd5ZnAOW21wTObBo1rie6xnvp\nXROjxzrFIaUCuK2trUUwgu85qPuN1O6mWHjfmEJrbwqt86XtDEYDkxeuBHWn+VXw\nAxI10s5/zll1f4gssqqeKg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tutorial-fine-tuning@data-science-class-376417.iam.gserviceaccount.com",
+  "client_id": "105764626603552910801",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tutorial-fine-tuning%40data-science-class-376417.iam.gserviceaccount.com"
+}
